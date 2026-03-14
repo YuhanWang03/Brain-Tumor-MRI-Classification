@@ -1,40 +1,22 @@
-\## Dataset
+## Dataset
 
+This project uses the public **Brain Tumor MRI Dataset** available on Kaggle:
 
+[Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 
-This project uses the \*\*Brain Tumor MRI Dataset\*\* from Kaggle.
+The dataset is not included in this repository. Please download it from Kaggle and place it under the `data/` directory before running the code.
 
-
-
-Dataset link: \[Brain Tumor MRI Dataset on Kaggle](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
-
-
-
-Please download the dataset manually and place it under the following structure:
-
-
+Expected structure:
 
 ```text
-
 data/
-
 ├── Training/
-
 │   ├── glioma/
-
 │   ├── meningioma/
-
 │   ├── notumor/
-
 │   └── pituitary/
-
 └── Testing/
-
-&#x20;   ├── glioma/
-
-&#x20;   ├── meningioma/
-
-&#x20;   ├── notumor/
-
-&#x20;   └── pituitary/
-
+    ├── glioma/
+    ├── meningioma/
+    ├── notumor/
+    └── pituitary/
