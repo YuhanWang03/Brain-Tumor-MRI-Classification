@@ -1,0 +1,9 @@
+model_name,method_name,head_type,seed,accuracy,macro_f1,weighted_f1
+deep_mlp_seed_1,deep_mlp,deep_mlp,1,0.8575,0.8540,0.8540
+deep_mlp_seed_2,deep_mlp,deep_mlp,2,0.8719,0.8677,0.8677
+linear_seed_1,linear,linear,1,0.9237,0.9221,0.9221
+linear_seed_2,linear,linear,2,0.9056,0.9037,0.9037
+linear_seed_3,linear,linear,3,0.9344,0.9333,0.9333
+linear_weighted_ce_gli_1.3_seed_1,linear_weighted_ce_gli_1.3,linear,1,0.9275,0.9263,0.9263
+linear_weighted_ce_gli_1.3_seed_2,linear_weighted_ce_gli_1.3,linear,2,0.9313,0.9303,0.9303
+linear_weighted_ce_gli_1.3_seed_3,linear_weighted_ce_gli_1.3,linear,3,0.9381,0.9373,0.9373

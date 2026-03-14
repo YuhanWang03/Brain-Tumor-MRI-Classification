@@ -1,0 +1,4 @@
+method_name,accuracy,macro_f1,weighted_f1
+deep_mlp,0.8575,0.8540,0.8540
+linear,0.9237,0.9221,0.9221
+linear_weighted_ce_gli_1.3,0.9275,0.9263,0.9263

@@ -1,0 +1,4 @@
+method_name,n_models,mean_accuracy,std_accuracy,mean_macro_f1,std_macro_f1,mean_weighted_f1,std_weighted_f1
+deep_mlp,2,0.8647,0.0072,0.8608,0.0069,0.8608,0.0069
+linear,3,0.9213,0.0119,0.9197,0.0122,0.9197,0.0122
+linear_weighted_ce_gli_1.3,3,0.9323,0.0044,0.9313,0.0045,0.9313,0.0045
