@@ -338,16 +338,3 @@ Possible future extensions include:
 - further tuning of class weights
 - additional medical image preprocessing experiments
 
----
-
-## 17. Summary for GitHub / Resume Context
-
-This project demonstrates:
-
-- end-to-end PyTorch image classification workflow development
-- transfer learning and staged fine-tuning
-- modular ML code organization
-- multi-seed evaluation
-- ablation-style method comparison
-- targeted performance improvement through loss reweighting
-- interpretation of class-specific error patterns
